@@ -3,3 +3,6 @@
 
 # log
 botpy.log*
+
+# pycache
+__pycache__/

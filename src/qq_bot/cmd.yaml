@@ -1,0 +1,24 @@
+# 填写样例
+# 用例会以 名称名称 [用例形式] 展示，对无需命令参数的命令可不填写
+# 可依据QQ开放平台对应的指令配置填写
+# https://q.qq.com/qqbot/#/developer/publish-config/function-config
+
+#'命令名称':
+#  '函数名': 'func_name'
+#  '用例': ''
+
+'/帮助':
+  '函数名': 'cmd_help'
+  '用例': ''
+
+'/每日60s':
+  '函数名': 'cmd_60s'
+  '用例': ''
+
+'/历史上的今天':
+  '函数名': 'cmd_history_today'
+  '用例': ''
+
+'/Chat':
+  '函数名': 'cmd_chat'
+  '用例': '[聊天内容]'
