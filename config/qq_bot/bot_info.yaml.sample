@@ -1,0 +1,6 @@
+name: bot_name
+description: bot_description
+qq: 'bot_qq'
+appid: 'bot_appid'
+token: bot_token
+appsecret: bot_appsecret
